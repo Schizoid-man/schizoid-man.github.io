@@ -1,0 +1,36 @@
+baseURL: https://schizoid-man.github.io/
+languageCode: en-in
+title: Rishab's Workspace
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "Rishab Tarakesh" 
+    subtitle: "Schizoid-man"
+    imageUrl: "https://cdn.discordapp.com/avatars/1113715172494811156/f8206623564f6759a78c2be737acf84d.webp?size=128"
+    imageTitle: "Profile Image" 
+    imageWidth: 120 
+    imageHeight: 120 
+    buttons:
+      - name: "Posts"
+        url: "/posts"
+      - name: "GitHub"
+        url: "https://github.com/Schizoid-man"
+
+  socialIcons: 
+    - name: "Github"
+      url: "https://github.com/Schizoid-man" # Replace with your actual Letterboxd link
+    - name: "Email"
+      url: "mailto:heisenbird@duck.com"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/rishab-tarakesh-4a8a61293/" 
+    - name: "Youtube"
+      url: "https://www.youtube.com/@The-SchizoidMan"
+    - name: "x" # Replace with your actual email
+      url: "https://x.com/A_Schizoid_Man?t=d-VEx3k549nEuKi9r0IIHw&s=09"
+    - name: "letterboxd"
+      url: "https://letterboxd.com/a_schizoid_man/"
+    - name: "discord"
+      url: "https://discordapp.com/users/1113715172494811156"
+    
