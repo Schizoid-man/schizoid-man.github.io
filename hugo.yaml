@@ -1,4 +1,4 @@
-baseURL: https://schizoid-man.github.io/
+baseURL: "https://schizoid-man.github.io/"
 languageCode: en-in
 title: Rishab's Workspace
 theme: ["PaperMod"]
