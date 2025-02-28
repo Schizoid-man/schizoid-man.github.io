@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Rishab&#39;s Workspace</title>
+    <link>https://schizoid-man.github.io/posts/</link>
+    <description>Recent content in Posts on Rishab&#39;s Workspace</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sun, 08 Sep 2024 14:11:58 +0530</lastBuildDate>
+    <atom:link href="https://schizoid-man.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embracing Open-Source at FOSS India with Mukti Community</title>
+      <link>https://schizoid-man.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 08 Sep 2024 14:11:58 +0530</pubDate>
+      <guid>https://schizoid-man.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Attending FOSS India with the Mukti team was an inspiring experience and a reminder of the power and potential of open-source software. Representing MSRIT alongside my peers, I got the chance to dive into the world of Free and Open-Source Software (FOSS) and engage with a community that’s passionate about technology, innovation, and collaboration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What is Open Source?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source software is more than just code; it’s a movement built on transparency, collaboration, and shared growth. In my work with Mukti, MSRIT’s FOSS club, we constantly look for ways to make technology accessible and inclusive. This event offered the perfect opportunity to connect with others who share these values and learn about the latest trends and projects in open-source.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
