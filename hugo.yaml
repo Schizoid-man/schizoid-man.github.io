@@ -4,6 +4,10 @@ title: Rishab's Workspace
 theme: ["PaperMod"]
 
 params:
+  ShowReadingTime: true
+  ShowToc: true
+  ShowCodeCopyButtons: true
+  ShowShareButtons: true
   profileMode:
     enabled: true
     title: "Rishab Tarakesh" 
